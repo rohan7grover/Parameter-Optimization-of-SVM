@@ -54,7 +54,7 @@ Attribute Information:
 |     10|   43.75|laplacedot | 0.8554330|   0.1094255|
 
 ## Convergence Graph
-![graph](convergenceGraph.png)
+![convergenceGraph](https://user-images.githubusercontent.com/85683864/233212527-b832c89b-ae74-437a-a3ae-5f0f8eb18a72.png)
 
 ## Discussion
 From the above table, we can observe that sample 8 achieved the highest fitness value of 76.67%, with kernel = polydot, nu = 0.2369070, and epsilon = 0.4473611. We will use this sample to discuss the convergence graph.
